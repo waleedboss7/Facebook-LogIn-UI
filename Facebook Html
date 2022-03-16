@@ -1,0 +1,20 @@
+ <div class="conatiner">
+	<div class="logo">
+		<img src= "https://pnggrid.com/wp-content/uploads/2021/07/Facebook-Logo-Square-768x768.png" alt="logo" width="190px">
+	</div>
+  <div class="input-box">
+	  <p>Facebook</p>
+	  <form>
+		  <input type="email" placeholder="Email Address or Phone Number" class="input">
+		  <input type="password" placeholder="Password">
+		  <input type="submit" value="Log in">
+	  </form>
+	  <div class="links">
+		<a href="#">Singn Up</a> 
+		<br>
+		<a href="#">Forgot Password?</a>
+		  
+		  
+	  </div>
+  </div>
+</div>
